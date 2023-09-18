@@ -1,0 +1,41 @@
+* {
+  padding: 0;
+  margin: 0;
+}
+.container {
+  width: 100%;
+  padding: 0;
+  margin: 5px;
+}
+body {
+  margin: 250px;
+  margin-top: 20px;
+  color: black;
+  font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
+  padding: 10px;
+  box-sizing: border-box;
+}
+.header {
+  color: blue;
+}
+.things {
+  color: red;
+}
+.top-3 {
+  text-shadow: 10px;
+  font-style: italic;
+  color: green;
+  border: 20px;
+  border-style: solid;
+  padding: 10pxpx;
+  border-radius: 15px;
+  box-sizing: border-box;
+  text-emphasis-color: red;
+}
+.form {
+  background-color: blueviolet;
+  color: aqua;
+}
+button {
+  color: blue;
+}
